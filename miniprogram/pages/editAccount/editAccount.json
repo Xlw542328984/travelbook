@@ -1,0 +1,11 @@
+{
+  "usingComponents": {},
+  "navigationBarTitleText": "编辑账本",
+  "usingComponent": {
+    "van-row": "@vant/weapp/row/index",
+    "van-col": "@vant/weapp/col/index",
+    "van-panel": "@vant/weapp/panel/index",
+    "van-button": "@vant/weapp/button/index"
+
+  }
+}

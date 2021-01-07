@@ -1,5 +1,10 @@
 // miniprogram/pages/accountBooks/accountBooks.js
 Page({
+  createNewAccount() {
+    wx.navigateTo({
+      url: '../editAccount/editAccount'
+    })
+  },
 
   /**
    * 页面的初始数据
